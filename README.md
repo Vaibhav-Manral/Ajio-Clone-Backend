@@ -95,5 +95,5 @@ Order has been successfully placed.
 
 #### Sarang [GitHub](https://github.com/sarang999)
 
-#### Vaibhav [GitHub](https://github.com/vab096) 
+#### Vaibhav [GitHub](https://github.com/Vaibhav-Manral) 
 
